@@ -1,1 +1,1 @@
-"# stock_highvlow_closing_values" 
+test technical strategy and output key summary statistics of a stock of your choosing
